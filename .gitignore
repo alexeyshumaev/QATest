@@ -1,0 +1,4 @@
+tools/
+temp/
+vendor/
+env.json
