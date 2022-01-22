@@ -1,4 +1,9 @@
 tools/
 temp/
 vendor/
+build/
 env.json
+
+*.cf
+*.cfe
+*.dt
